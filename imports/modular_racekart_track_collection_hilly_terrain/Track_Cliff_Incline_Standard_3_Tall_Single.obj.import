@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/Track_Cliff_Incline_Standard_3_Tall_Single.obj-9e1e29a2d53b398c3ab2e0393b618f9c.mesh"
+
+[deps]
+
+files=[ "res://.import/Track_Cliff_Incline_Standard_3_Tall_Single.obj-9e1e29a2d53b398c3ab2e0393b618f9c.mesh" ]
+
+source_file="res://imports/modular_racekart_track_collection_hilly_terrain/Track_Cliff_Incline_Standard_3_Tall_Single.obj"
+dest_files=[ "res://.import/Track_Cliff_Incline_Standard_3_Tall_Single.obj-9e1e29a2d53b398c3ab2e0393b618f9c.mesh", "res://.import/Track_Cliff_Incline_Standard_3_Tall_Single.obj-9e1e29a2d53b398c3ab2e0393b618f9c.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

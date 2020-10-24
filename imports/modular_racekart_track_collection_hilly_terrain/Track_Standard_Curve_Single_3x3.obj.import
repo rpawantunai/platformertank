@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/Track_Standard_Curve_Single_3x3.obj-c8f984399578618875afecbee7972a2e.mesh"
+
+[deps]
+
+files=[ "res://.import/Track_Standard_Curve_Single_3x3.obj-c8f984399578618875afecbee7972a2e.mesh" ]
+
+source_file="res://imports/modular_racekart_track_collection_hilly_terrain/Track_Standard_Curve_Single_3x3.obj"
+dest_files=[ "res://.import/Track_Standard_Curve_Single_3x3.obj-c8f984399578618875afecbee7972a2e.mesh", "res://.import/Track_Standard_Curve_Single_3x3.obj-c8f984399578618875afecbee7972a2e.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

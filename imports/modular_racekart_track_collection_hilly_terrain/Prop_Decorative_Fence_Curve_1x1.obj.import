@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/Prop_Decorative_Fence_Curve_1x1.obj-ba7631785647a09e5c5296ef984ec9fb.mesh"
+
+[deps]
+
+files=[ "res://.import/Prop_Decorative_Fence_Curve_1x1.obj-ba7631785647a09e5c5296ef984ec9fb.mesh" ]
+
+source_file="res://imports/modular_racekart_track_collection_hilly_terrain/Prop_Decorative_Fence_Curve_1x1.obj"
+dest_files=[ "res://.import/Prop_Decorative_Fence_Curve_1x1.obj-ba7631785647a09e5c5296ef984ec9fb.mesh", "res://.import/Prop_Decorative_Fence_Curve_1x1.obj-ba7631785647a09e5c5296ef984ec9fb.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

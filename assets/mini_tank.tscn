@@ -1,0 +1,66 @@
+[gd_scene load_steps=12 format=2]
+
+[ext_resource path="res://imports/tank/mini_tank_preview.obj" type="PackedScene" id=1]
+[ext_resource path="res://assets/mini_tank.gd" type="Script" id=2]
+
+[sub_resource type="BoxShape" id=2]
+extents = Vector3( 1, 0.430656, 0.898756 )
+
+[sub_resource type="SpatialMaterial" id=3]
+albedo_color = Color( 0.2, 0.137255, 0.137255, 1 )
+
+[sub_resource type="SpatialMaterial" id=4]
+albedo_color = Color( 0.392157, 0.176471, 0.137255, 1 )
+
+[sub_resource type="SpatialMaterial" id=1]
+albedo_color = Color( 0.305882, 0.156863, 0.121569, 1 )
+
+[sub_resource type="SpatialMaterial" id=5]
+albedo_color = Color( 0.2, 0.137255, 0.137255, 1 )
+
+[sub_resource type="SpatialMaterial" id=6]
+albedo_color = Color( 0.2, 0.137255, 0.137255, 1 )
+
+[sub_resource type="SpatialMaterial" id=7]
+albedo_color = Color( 0.2, 0.137255, 0.137255, 1 )
+
+[sub_resource type="SpatialMaterial" id=8]
+albedo_color = Color( 0.2, 0.137255, 0.137255, 1 )
+
+[sub_resource type="SpatialMaterial" id=9]
+albedo_color = Color( 0.2, 0.137255, 0.137255, 1 )
+
+[node name="mini_tank" instance=ExtResource( 1 )]
+script = ExtResource( 2 )
+
+[node name="CollisionShape" type="CollisionShape" parent="." index="0"]
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, -0.0174629, 0.198717 )
+shape = SubResource( 2 )
+
+[node name="RayCast" type="RayCast" parent="." index="1"]
+enabled = true
+cast_to = Vector3( 0, -2, 0 )
+
+[node name="Antena_Cube002" parent="." index="3"]
+material/0 = SubResource( 3 )
+
+[node name="Head_Cube003" parent="." index="5"]
+material/0 = SubResource( 4 )
+
+[node name="Body_Cube009" parent="." index="6"]
+material/0 = SubResource( 1 )
+
+[node name="barrel_Cube011" parent="." index="8"]
+material/0 = SubResource( 5 )
+
+[node name="Tailpipe_Cube012" parent="." index="9"]
+material/0 = SubResource( 6 )
+
+[node name="cap_Cube013" parent="." index="10"]
+material/0 = SubResource( 7 )
+
+[node name="L_arm_Cube016" parent="." index="11"]
+material/0 = SubResource( 8 )
+
+[node name="R_arm_Cube017" parent="." index="12"]
+material/0 = SubResource( 9 )

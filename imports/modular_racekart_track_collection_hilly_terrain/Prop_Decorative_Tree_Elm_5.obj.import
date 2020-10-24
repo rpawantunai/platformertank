@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/Prop_Decorative_Tree_Elm_5.obj-51371ca4c6250b8403d07286d19e973e.mesh"
+
+[deps]
+
+files=[ "res://.import/Prop_Decorative_Tree_Elm_5.obj-51371ca4c6250b8403d07286d19e973e.mesh" ]
+
+source_file="res://imports/modular_racekart_track_collection_hilly_terrain/Prop_Decorative_Tree_Elm_5.obj"
+dest_files=[ "res://.import/Prop_Decorative_Tree_Elm_5.obj-51371ca4c6250b8403d07286d19e973e.mesh", "res://.import/Prop_Decorative_Tree_Elm_5.obj-51371ca4c6250b8403d07286d19e973e.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

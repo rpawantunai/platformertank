@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/Hilly_Terrain_Grass_Floor.obj-a78c7bc5dd2e6a03ab87b6673d76ce98.mesh"
+
+[deps]
+
+files=[ "res://.import/Hilly_Terrain_Grass_Floor.obj-a78c7bc5dd2e6a03ab87b6673d76ce98.mesh" ]
+
+source_file="res://imports/modular_terrain_collection/Hilly_Terrain_Grass_Floor.obj"
+dest_files=[ "res://.import/Hilly_Terrain_Grass_Floor.obj-a78c7bc5dd2e6a03ab87b6673d76ce98.mesh", "res://.import/Hilly_Terrain_Grass_Floor.obj-a78c7bc5dd2e6a03ab87b6673d76ce98.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

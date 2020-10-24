@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/Shared_Terrain_Dirt_Gathered_Corner.obj-f4d1ac1ce55db0b8e1aff18cc031572d.mesh"
+
+[deps]
+
+files=[ "res://.import/Shared_Terrain_Dirt_Gathered_Corner.obj-f4d1ac1ce55db0b8e1aff18cc031572d.mesh" ]
+
+source_file="res://imports/modular_terrain_collection/Shared_Terrain_Dirt_Gathered_Corner.obj"
+dest_files=[ "res://.import/Shared_Terrain_Dirt_Gathered_Corner.obj-f4d1ac1ce55db0b8e1aff18cc031572d.mesh", "res://.import/Shared_Terrain_Dirt_Gathered_Corner.obj-f4d1ac1ce55db0b8e1aff18cc031572d.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/Cave_Prop_Railway_Intersection.obj-57b5963612c66ef198a903b7d0e9266e.mesh"
+
+[deps]
+
+files=[ "res://.import/Cave_Prop_Railway_Intersection.obj-57b5963612c66ef198a903b7d0e9266e.mesh" ]
+
+source_file="res://imports/modular_terrain_collection/Cave_Prop_Railway_Intersection.obj"
+dest_files=[ "res://.import/Cave_Prop_Railway_Intersection.obj-57b5963612c66ef198a903b7d0e9266e.mesh", "res://.import/Cave_Prop_Railway_Intersection.obj-57b5963612c66ef198a903b7d0e9266e.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

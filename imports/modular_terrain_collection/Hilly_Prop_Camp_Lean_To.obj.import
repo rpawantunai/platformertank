@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/Hilly_Prop_Camp_Lean_To.obj-b4321206abff66cfebfc7a690e4c3dd8.mesh"
+
+[deps]
+
+files=[ "res://.import/Hilly_Prop_Camp_Lean_To.obj-b4321206abff66cfebfc7a690e4c3dd8.mesh" ]
+
+source_file="res://imports/modular_terrain_collection/Hilly_Prop_Camp_Lean_To.obj"
+dest_files=[ "res://.import/Hilly_Prop_Camp_Lean_To.obj-b4321206abff66cfebfc7a690e4c3dd8.mesh", "res://.import/Hilly_Prop_Camp_Lean_To.obj-b4321206abff66cfebfc7a690e4c3dd8.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

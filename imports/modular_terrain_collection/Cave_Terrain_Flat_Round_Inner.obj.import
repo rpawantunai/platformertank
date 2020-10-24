@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/Cave_Terrain_Flat_Round_Inner.obj-7c7f6cfb1f088f4821bf26c044f8e6fd.mesh"
+
+[deps]
+
+files=[ "res://.import/Cave_Terrain_Flat_Round_Inner.obj-7c7f6cfb1f088f4821bf26c044f8e6fd.mesh" ]
+
+source_file="res://imports/modular_terrain_collection/Cave_Terrain_Flat_Round_Inner.obj"
+dest_files=[ "res://.import/Cave_Terrain_Flat_Round_Inner.obj-7c7f6cfb1f088f4821bf26c044f8e6fd.mesh", "res://.import/Cave_Terrain_Flat_Round_Inner.obj-7c7f6cfb1f088f4821bf26c044f8e6fd.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

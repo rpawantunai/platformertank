@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/Track_Cliff_Edge_Striped_1_Tall_Double.obj-2cd9298f1b5e0530c0eff46bd29199c6.mesh"
+
+[deps]
+
+files=[ "res://.import/Track_Cliff_Edge_Striped_1_Tall_Double.obj-2cd9298f1b5e0530c0eff46bd29199c6.mesh" ]
+
+source_file="res://imports/modular_racekart_track_collection_hilly_terrain/Track_Cliff_Edge_Striped_1_Tall_Double.obj"
+dest_files=[ "res://.import/Track_Cliff_Edge_Striped_1_Tall_Double.obj-2cd9298f1b5e0530c0eff46bd29199c6.mesh", "res://.import/Track_Cliff_Edge_Striped_1_Tall_Double.obj-2cd9298f1b5e0530c0eff46bd29199c6.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

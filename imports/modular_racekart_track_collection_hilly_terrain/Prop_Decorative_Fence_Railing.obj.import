@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/Prop_Decorative_Fence_Railing.obj-0cc762a99e62639e8a2c66d15a09ac67.mesh"
+
+[deps]
+
+files=[ "res://.import/Prop_Decorative_Fence_Railing.obj-0cc762a99e62639e8a2c66d15a09ac67.mesh" ]
+
+source_file="res://imports/modular_racekart_track_collection_hilly_terrain/Prop_Decorative_Fence_Railing.obj"
+dest_files=[ "res://.import/Prop_Decorative_Fence_Railing.obj-0cc762a99e62639e8a2c66d15a09ac67.mesh", "res://.import/Prop_Decorative_Fence_Railing.obj-0cc762a99e62639e8a2c66d15a09ac67.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

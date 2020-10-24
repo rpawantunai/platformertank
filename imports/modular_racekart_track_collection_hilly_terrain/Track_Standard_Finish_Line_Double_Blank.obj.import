@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/Track_Standard_Finish_Line_Double_Blank.obj-0d1314337c6a249c6a2afa6d3a8579e3.mesh"
+
+[deps]
+
+files=[ "res://.import/Track_Standard_Finish_Line_Double_Blank.obj-0d1314337c6a249c6a2afa6d3a8579e3.mesh" ]
+
+source_file="res://imports/modular_racekart_track_collection_hilly_terrain/Track_Standard_Finish_Line_Double_Blank.obj"
+dest_files=[ "res://.import/Track_Standard_Finish_Line_Double_Blank.obj-0d1314337c6a249c6a2afa6d3a8579e3.mesh", "res://.import/Track_Standard_Finish_Line_Double_Blank.obj-0d1314337c6a249c6a2afa6d3a8579e3.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

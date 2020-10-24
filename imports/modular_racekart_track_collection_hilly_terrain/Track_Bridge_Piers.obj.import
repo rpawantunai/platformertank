@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/Track_Bridge_Piers.obj-074a831bba60820cc5aac033bfa95300.mesh"
+
+[deps]
+
+files=[ "res://.import/Track_Bridge_Piers.obj-074a831bba60820cc5aac033bfa95300.mesh" ]
+
+source_file="res://imports/modular_racekart_track_collection_hilly_terrain/Track_Bridge_Piers.obj"
+dest_files=[ "res://.import/Track_Bridge_Piers.obj-074a831bba60820cc5aac033bfa95300.mesh", "res://.import/Track_Bridge_Piers.obj-074a831bba60820cc5aac033bfa95300.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

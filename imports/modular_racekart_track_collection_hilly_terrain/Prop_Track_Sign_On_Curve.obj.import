@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/Prop_Track_Sign_On_Curve.obj-6cf208b2608ea3b9612ea773170046fa.mesh"
+
+[deps]
+
+files=[ "res://.import/Prop_Track_Sign_On_Curve.obj-6cf208b2608ea3b9612ea773170046fa.mesh" ]
+
+source_file="res://imports/modular_racekart_track_collection_hilly_terrain/Prop_Track_Sign_On_Curve.obj"
+dest_files=[ "res://.import/Prop_Track_Sign_On_Curve.obj-6cf208b2608ea3b9612ea773170046fa.mesh", "res://.import/Prop_Track_Sign_On_Curve.obj-6cf208b2608ea3b9612ea773170046fa.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

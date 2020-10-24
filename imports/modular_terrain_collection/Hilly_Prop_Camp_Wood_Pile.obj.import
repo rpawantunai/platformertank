@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/Hilly_Prop_Camp_Wood_Pile.obj-a3e270fb4f3532b7edaa5328cf3b9035.mesh"
+
+[deps]
+
+files=[ "res://.import/Hilly_Prop_Camp_Wood_Pile.obj-a3e270fb4f3532b7edaa5328cf3b9035.mesh" ]
+
+source_file="res://imports/modular_terrain_collection/Hilly_Prop_Camp_Wood_Pile.obj"
+dest_files=[ "res://.import/Hilly_Prop_Camp_Wood_Pile.obj-a3e270fb4f3532b7edaa5328cf3b9035.mesh", "res://.import/Hilly_Prop_Camp_Wood_Pile.obj-a3e270fb4f3532b7edaa5328cf3b9035.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

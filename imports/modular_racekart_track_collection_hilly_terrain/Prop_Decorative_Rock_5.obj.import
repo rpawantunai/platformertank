@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/Prop_Decorative_Rock_5.obj-9fa368312892fe4a865cbb94e567454e.mesh"
+
+[deps]
+
+files=[ "res://.import/Prop_Decorative_Rock_5.obj-9fa368312892fe4a865cbb94e567454e.mesh" ]
+
+source_file="res://imports/modular_racekart_track_collection_hilly_terrain/Prop_Decorative_Rock_5.obj"
+dest_files=[ "res://.import/Prop_Decorative_Rock_5.obj-9fa368312892fe4a865cbb94e567454e.mesh", "res://.import/Prop_Decorative_Rock_5.obj-9fa368312892fe4a865cbb94e567454e.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

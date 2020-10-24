@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/Prop_Obstacle_Hammer_Housing_Single.obj-65a54e6baae9de843c73b6f225993c6b.mesh"
+
+[deps]
+
+files=[ "res://.import/Prop_Obstacle_Hammer_Housing_Single.obj-65a54e6baae9de843c73b6f225993c6b.mesh" ]
+
+source_file="res://imports/modular_racekart_track_collection_hilly_terrain/Prop_Obstacle_Hammer_Housing_Single.obj"
+dest_files=[ "res://.import/Prop_Obstacle_Hammer_Housing_Single.obj-65a54e6baae9de843c73b6f225993c6b.mesh", "res://.import/Prop_Obstacle_Hammer_Housing_Single.obj-65a54e6baae9de843c73b6f225993c6b.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

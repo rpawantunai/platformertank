@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/Hilly_Terrain_Hill_Transition_Gentle_Sharp_Flush_Base.obj-dca6aaeb84f023e894877bdade590f95.mesh"
+
+[deps]
+
+files=[ "res://.import/Hilly_Terrain_Hill_Transition_Gentle_Sharp_Flush_Base.obj-dca6aaeb84f023e894877bdade590f95.mesh" ]
+
+source_file="res://imports/modular_terrain_collection/Hilly_Terrain_Hill_Transition_Gentle_Sharp_Flush_Base.obj"
+dest_files=[ "res://.import/Hilly_Terrain_Hill_Transition_Gentle_Sharp_Flush_Base.obj-dca6aaeb84f023e894877bdade590f95.mesh", "res://.import/Hilly_Terrain_Hill_Transition_Gentle_Sharp_Flush_Base.obj-dca6aaeb84f023e894877bdade590f95.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

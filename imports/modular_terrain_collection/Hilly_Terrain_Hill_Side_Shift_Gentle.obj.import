@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/Hilly_Terrain_Hill_Side_Shift_Gentle.obj-67949074a8b54db3ecd0e5f8649805bc.mesh"
+
+[deps]
+
+files=[ "res://.import/Hilly_Terrain_Hill_Side_Shift_Gentle.obj-67949074a8b54db3ecd0e5f8649805bc.mesh" ]
+
+source_file="res://imports/modular_terrain_collection/Hilly_Terrain_Hill_Side_Shift_Gentle.obj"
+dest_files=[ "res://.import/Hilly_Terrain_Hill_Side_Shift_Gentle.obj-67949074a8b54db3ecd0e5f8649805bc.mesh", "res://.import/Hilly_Terrain_Hill_Side_Shift_Gentle.obj-67949074a8b54db3ecd0e5f8649805bc.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

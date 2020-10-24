@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/Track_Bridge_Flat_Collider.obj-f7c92adcccedd68ce53e248dbd5d356d.mesh"
+
+[deps]
+
+files=[ "res://.import/Track_Bridge_Flat_Collider.obj-f7c92adcccedd68ce53e248dbd5d356d.mesh" ]
+
+source_file="res://imports/modular_racekart_track_collection_hilly_terrain/Track_Bridge_Flat_Collider.obj"
+dest_files=[ "res://.import/Track_Bridge_Flat_Collider.obj-f7c92adcccedd68ce53e248dbd5d356d.mesh", "res://.import/Track_Bridge_Flat_Collider.obj-f7c92adcccedd68ce53e248dbd5d356d.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

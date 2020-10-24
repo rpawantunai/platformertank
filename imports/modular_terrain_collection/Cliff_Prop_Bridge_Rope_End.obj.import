@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/Cliff_Prop_Bridge_Rope_End.obj-b5a115a68998d5cb02021aa5580e3a4c.mesh"
+
+[deps]
+
+files=[ "res://.import/Cliff_Prop_Bridge_Rope_End.obj-b5a115a68998d5cb02021aa5580e3a4c.mesh" ]
+
+source_file="res://imports/modular_terrain_collection/Cliff_Prop_Bridge_Rope_End.obj"
+dest_files=[ "res://.import/Cliff_Prop_Bridge_Rope_End.obj-b5a115a68998d5cb02021aa5580e3a4c.mesh", "res://.import/Cliff_Prop_Bridge_Rope_End.obj-b5a115a68998d5cb02021aa5580e3a4c.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

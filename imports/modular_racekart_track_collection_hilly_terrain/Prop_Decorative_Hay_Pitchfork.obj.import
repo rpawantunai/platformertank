@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/Prop_Decorative_Hay_Pitchfork.obj-cf12b52eaaf35a1d322badfada2d2d51.mesh"
+
+[deps]
+
+files=[ "res://.import/Prop_Decorative_Hay_Pitchfork.obj-cf12b52eaaf35a1d322badfada2d2d51.mesh" ]
+
+source_file="res://imports/modular_racekart_track_collection_hilly_terrain/Prop_Decorative_Hay_Pitchfork.obj"
+dest_files=[ "res://.import/Prop_Decorative_Hay_Pitchfork.obj-cf12b52eaaf35a1d322badfada2d2d51.mesh", "res://.import/Prop_Decorative_Hay_Pitchfork.obj-cf12b52eaaf35a1d322badfada2d2d51.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

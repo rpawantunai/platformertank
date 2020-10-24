@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/Track_Bridge_Incline_Sharp_Flat_Floating.obj-a7d865768bc3e994e7da1c50af87e1cd.mesh"
+
+[deps]
+
+files=[ "res://.import/Track_Bridge_Incline_Sharp_Flat_Floating.obj-a7d865768bc3e994e7da1c50af87e1cd.mesh" ]
+
+source_file="res://imports/modular_racekart_track_collection_hilly_terrain/Track_Bridge_Incline_Sharp_Flat_Floating.obj"
+dest_files=[ "res://.import/Track_Bridge_Incline_Sharp_Flat_Floating.obj-a7d865768bc3e994e7da1c50af87e1cd.mesh", "res://.import/Track_Bridge_Incline_Sharp_Flat_Floating.obj-a7d865768bc3e994e7da1c50af87e1cd.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

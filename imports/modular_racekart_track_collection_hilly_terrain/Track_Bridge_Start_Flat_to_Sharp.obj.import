@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/Track_Bridge_Start_Flat_to_Sharp.obj-f5a5aef0cd9a6c20d9f7429479bc372c.mesh"
+
+[deps]
+
+files=[ "res://.import/Track_Bridge_Start_Flat_to_Sharp.obj-f5a5aef0cd9a6c20d9f7429479bc372c.mesh" ]
+
+source_file="res://imports/modular_racekart_track_collection_hilly_terrain/Track_Bridge_Start_Flat_to_Sharp.obj"
+dest_files=[ "res://.import/Track_Bridge_Start_Flat_to_Sharp.obj-f5a5aef0cd9a6c20d9f7429479bc372c.mesh", "res://.import/Track_Bridge_Start_Flat_to_Sharp.obj-f5a5aef0cd9a6c20d9f7429479bc372c.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

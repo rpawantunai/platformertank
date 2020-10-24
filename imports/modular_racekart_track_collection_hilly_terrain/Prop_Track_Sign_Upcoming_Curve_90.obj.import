@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/Prop_Track_Sign_Upcoming_Curve_90.obj-b32fff2a0ce75d1cab9e52b213f4fc2c.mesh"
+
+[deps]
+
+files=[ "res://.import/Prop_Track_Sign_Upcoming_Curve_90.obj-b32fff2a0ce75d1cab9e52b213f4fc2c.mesh" ]
+
+source_file="res://imports/modular_racekart_track_collection_hilly_terrain/Prop_Track_Sign_Upcoming_Curve_90.obj"
+dest_files=[ "res://.import/Prop_Track_Sign_Upcoming_Curve_90.obj-b32fff2a0ce75d1cab9e52b213f4fc2c.mesh", "res://.import/Prop_Track_Sign_Upcoming_Curve_90.obj-b32fff2a0ce75d1cab9e52b213f4fc2c.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

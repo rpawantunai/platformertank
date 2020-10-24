@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/Terrain_Cliff_3_Tall_Side.obj-9ce222f4e3f85b97b2f7c8e6b12fc209.mesh"
+
+[deps]
+
+files=[ "res://.import/Terrain_Cliff_3_Tall_Side.obj-9ce222f4e3f85b97b2f7c8e6b12fc209.mesh" ]
+
+source_file="res://imports/modular_racekart_track_collection_hilly_terrain/Terrain_Cliff_3_Tall_Side.obj"
+dest_files=[ "res://.import/Terrain_Cliff_3_Tall_Side.obj-9ce222f4e3f85b97b2f7c8e6b12fc209.mesh", "res://.import/Terrain_Cliff_3_Tall_Side.obj-9ce222f4e3f85b97b2f7c8e6b12fc209.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

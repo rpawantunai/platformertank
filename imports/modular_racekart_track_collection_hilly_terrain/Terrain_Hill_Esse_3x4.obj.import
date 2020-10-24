@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/Terrain_Hill_Esse_3x4.obj-7b090e9e6762846f17c6388b33f0f7b7.mesh"
+
+[deps]
+
+files=[ "res://.import/Terrain_Hill_Esse_3x4.obj-7b090e9e6762846f17c6388b33f0f7b7.mesh" ]
+
+source_file="res://imports/modular_racekart_track_collection_hilly_terrain/Terrain_Hill_Esse_3x4.obj"
+dest_files=[ "res://.import/Terrain_Hill_Esse_3x4.obj-7b090e9e6762846f17c6388b33f0f7b7.mesh", "res://.import/Terrain_Hill_Esse_3x4.obj-7b090e9e6762846f17c6388b33f0f7b7.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true
